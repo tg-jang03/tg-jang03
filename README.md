@@ -14,7 +14,7 @@ I work across battery diagnostics, AI for industrial equipment, and LLM-based se
 
 ### About Me
 
-- B.S. & M.S. in Mechanical Engineering, Hanyang University
+- B.S. & M.S. in Mechanical Engineering, Hanyang University (Seoul)
 - Physics-informed machine learning and AI research on industrial data
 - End-to-end experience, from AI model research to deployment in real industrial systems
 
